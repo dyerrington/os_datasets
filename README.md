@@ -1,5 +1,5 @@
 # os_datasets
-This repo contains a small collection of open-source datasets I helped maintain when I started teaching online for various clients.  There are too many great data sources for those new to data science to explore, so this repo aims to be an excellent resource for practicing machine learning and fundamental analysis techniques more than a comprehensive storage bin for CSV files.
+This repo contains a small collection of open-source datasets I helped maintain when I started teaching online for various clients.  So there's a bit of a pedagogical slant to why I selected these.  There are too many great data sources for those new to data science to explore, so this repo aims to be an excellent resource for practicing machine learning and fundamental analysis techniques more than a comprehensive storage bin for CSV files.
 
 >  This repo is re-based from another one, but the intention is to maintain this resource long-term.  If you would like to contribute, just clone, commit, and do a pull request!
 
